@@ -1,0 +1,9 @@
+# ninja log v6
+4	632	7598584383756008	Exp_Cal_autogen/timestamp	20254031ecf70a66
+4	632	7598584383756008	Exp_Cal_autogen/mocs_compilation.cpp	20254031ecf70a66
+4	632	7598584383756008	C:/Users/R G/Documents/Exp_Cal/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/Exp_Cal_autogen/timestamp	20254031ecf70a66
+4	632	7598584383756008	C:/Users/R G/Documents/Exp_Cal/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/Exp_Cal_autogen/mocs_compilation.cpp	20254031ecf70a66
+637	1831	7598584384436743	CMakeFiles/Exp_Cal.dir/Exp_Cal_autogen/mocs_compilation.cpp.obj	8259d8e886a30f54
+643	1863	7598584384491954	CMakeFiles/Exp_Cal.dir/mainwindow.cpp.obj	30d29de0e6dba490
+639	3107	7598584384461679	CMakeFiles/Exp_Cal.dir/main.cpp.obj	ba8960c65cfd428e
+3107	3289	7598584409140345	Exp_Cal.exe	fdd5775654172ab

@@ -1,0 +1,27 @@
+{
+    "expenses": [
+        {
+            "amount": 90,
+            "date": "2025-01-29",
+            "item": "hgh",
+            "participants": [
+                "p1",
+                "p2",
+                "p3"
+            ],
+            "payer": "p1"
+        },
+        {
+            "amount": 50,
+            "date": "2025-01-30",
+            "item": "mhjk",
+            "participants": [
+                "p1",
+                "p2"
+            ],
+            "payer": "p1"
+        }
+    ],
+    "friends": [
+    ]
+}

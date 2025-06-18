@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f10b6ad3c5fb3b17ca9a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Exp_Cal",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Exp_Cal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Exp_Cal-Debug-0550aa8922ad6eeaf216.json",
+					"name" : "Exp_Cal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Exp_Cal_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Exp_Cal_autogen-Debug-64834ae9bb690719fdbb.json",
+					"name" : "Exp_Cal_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Exp_Cal_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Exp_Cal_autogen_timestamp_deps-Debug-a0760a12f86d07597e60.json",
+					"name" : "Exp_Cal_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/R G/Documents/Exp_Cal/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/R G/Documents/Exp_Cal"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

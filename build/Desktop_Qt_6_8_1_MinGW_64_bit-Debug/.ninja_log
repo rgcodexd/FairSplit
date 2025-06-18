@@ -1,0 +1,63 @@
+# ninja log v6
+8	2656	7597598036996926	Exp_Cal_autogen/timestamp	208134728d79a4a
+8	2656	7597598036996926	Exp_Cal_autogen/mocs_compilation.cpp	208134728d79a4a
+8	2656	7597598036996926	C:/Users/R G/Documents/Exp_Cal/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Exp_Cal_autogen/timestamp	208134728d79a4a
+8	2656	7597598036996926	C:/Users/R G/Documents/Exp_Cal/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Exp_Cal_autogen/mocs_compilation.cpp	208134728d79a4a
+2662	4067	7597598037782502	CMakeFiles/Exp_Cal.dir/Exp_Cal_autogen/mocs_compilation.cpp.obj	3e86dd7f021790db
+2673	4128	7597598037850470	CMakeFiles/Exp_Cal.dir/mainwindow.cpp.obj	f5ff1dc01e2a633a
+2668	5364	7597598037850470	CMakeFiles/Exp_Cal.dir/main.cpp.obj	f0092da0f793dff6
+5364	5818	7597598064762460	Exp_Cal.exe	4ac3c7b9c6bc414a
+57	975	7598485597716618	Exp_Cal_autogen/timestamp	208134728d79a4a
+57	975	7598485597716618	Exp_Cal_autogen/mocs_compilation.cpp	208134728d79a4a
+57	975	7598485597716618	C:/Users/R G/Documents/Exp_Cal/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Exp_Cal_autogen/timestamp	208134728d79a4a
+57	975	7598485597716618	C:/Users/R G/Documents/Exp_Cal/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Exp_Cal_autogen/mocs_compilation.cpp	208134728d79a4a
+981	3023	7598485606949659	CMakeFiles/Exp_Cal.dir/mainwindow.cpp.obj	f5ff1dc01e2a633a
+977	4320	7598485606904547	CMakeFiles/Exp_Cal.dir/main.cpp.obj	f0092da0f793dff6
+4320	5013	7598485640340908	Exp_Cal.exe	4ac3c7b9c6bc414a
+13	697	7598492993137830	Exp_Cal_autogen/timestamp	208134728d79a4a
+13	697	7598492993137830	Exp_Cal_autogen/mocs_compilation.cpp	208134728d79a4a
+13	697	7598492993137830	C:/Users/R G/Documents/Exp_Cal/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Exp_Cal_autogen/timestamp	208134728d79a4a
+13	697	7598492993137830	C:/Users/R G/Documents/Exp_Cal/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Exp_Cal_autogen/mocs_compilation.cpp	208134728d79a4a
+701	2322	7598493000018919	CMakeFiles/Exp_Cal.dir/mainwindow.cpp.obj	f5ff1dc01e2a633a
+697	3492	7598492999983647	CMakeFiles/Exp_Cal.dir/main.cpp.obj	f0092da0f793dff6
+3492	3812	7598493027924942	Exp_Cal.exe	4ac3c7b9c6bc414a
+10	611	7598545320324942	Exp_Cal_autogen/timestamp	208134728d79a4a
+10	611	7598545320324942	Exp_Cal_autogen/mocs_compilation.cpp	208134728d79a4a
+10	611	7598545320324942	C:/Users/R G/Documents/Exp_Cal/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Exp_Cal_autogen/timestamp	208134728d79a4a
+10	611	7598545320324942	C:/Users/R G/Documents/Exp_Cal/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Exp_Cal_autogen/mocs_compilation.cpp	208134728d79a4a
+615	2398	7598545326367498	CMakeFiles/Exp_Cal.dir/mainwindow.cpp.obj	f5ff1dc01e2a633a
+34	647	7598556167384667	Exp_Cal_autogen/timestamp	208134728d79a4a
+34	647	7598556167384667	Exp_Cal_autogen/mocs_compilation.cpp	208134728d79a4a
+34	647	7598556167384667	C:/Users/R G/Documents/Exp_Cal/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Exp_Cal_autogen/timestamp	208134728d79a4a
+34	647	7598556167384667	C:/Users/R G/Documents/Exp_Cal/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Exp_Cal_autogen/mocs_compilation.cpp	208134728d79a4a
+651	2135	7598556173554425	CMakeFiles/Exp_Cal.dir/mainwindow.cpp.obj	f5ff1dc01e2a633a
+648	3236	7598556173521342	CMakeFiles/Exp_Cal.dir/main.cpp.obj	f0092da0f793dff6
+3236	3513	7598556199402803	Exp_Cal.exe	4ac3c7b9c6bc414a
+29	616	7598557736864821	Exp_Cal_autogen/timestamp	208134728d79a4a
+29	616	7598557736864821	Exp_Cal_autogen/mocs_compilation.cpp	208134728d79a4a
+29	616	7598557736864821	C:/Users/R G/Documents/Exp_Cal/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Exp_Cal_autogen/timestamp	208134728d79a4a
+29	616	7598557736864821	C:/Users/R G/Documents/Exp_Cal/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Exp_Cal_autogen/mocs_compilation.cpp	208134728d79a4a
+620	2097	7598557742772432	CMakeFiles/Exp_Cal.dir/mainwindow.cpp.obj	f5ff1dc01e2a633a
+617	3234	7598557742741314	CMakeFiles/Exp_Cal.dir/main.cpp.obj	f0092da0f793dff6
+3234	3492	7598557768907905	Exp_Cal.exe	4ac3c7b9c6bc414a
+10	611	7598559169102716	Exp_Cal_autogen/timestamp	208134728d79a4a
+10	611	7598559169102716	Exp_Cal_autogen/mocs_compilation.cpp	208134728d79a4a
+10	611	7598559169102716	C:/Users/R G/Documents/Exp_Cal/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Exp_Cal_autogen/timestamp	208134728d79a4a
+10	611	7598559169102716	C:/Users/R G/Documents/Exp_Cal/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Exp_Cal_autogen/mocs_compilation.cpp	208134728d79a4a
+615	2126	7598559175157316	CMakeFiles/Exp_Cal.dir/mainwindow.cpp.obj	f5ff1dc01e2a633a
+612	3230	7598559175135347	CMakeFiles/Exp_Cal.dir/main.cpp.obj	f0092da0f793dff6
+3230	3495	7598559201319858	Exp_Cal.exe	4ac3c7b9c6bc414a
+31	601	7598560829687680	Exp_Cal_autogen/timestamp	208134728d79a4a
+31	601	7598560829687680	Exp_Cal_autogen/mocs_compilation.cpp	208134728d79a4a
+31	601	7598560829687680	C:/Users/R G/Documents/Exp_Cal/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Exp_Cal_autogen/timestamp	208134728d79a4a
+31	601	7598560829687680	C:/Users/R G/Documents/Exp_Cal/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Exp_Cal_autogen/mocs_compilation.cpp	208134728d79a4a
+607	2001	7598560835450840	CMakeFiles/Exp_Cal.dir/mainwindow.cpp.obj	f5ff1dc01e2a633a
+602	2966	7598560835403251	CMakeFiles/Exp_Cal.dir/main.cpp.obj	f0092da0f793dff6
+2966	3205	7598560859042685	Exp_Cal.exe	4ac3c7b9c6bc414a
+33	579	7598564180718677	Exp_Cal_autogen/timestamp	208134728d79a4a
+33	579	7598564180718677	Exp_Cal_autogen/mocs_compilation.cpp	208134728d79a4a
+33	579	7598564180718677	C:/Users/R G/Documents/Exp_Cal/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Exp_Cal_autogen/timestamp	208134728d79a4a
+33	579	7598564180718677	C:/Users/R G/Documents/Exp_Cal/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/Exp_Cal_autogen/mocs_compilation.cpp	208134728d79a4a
+584	1995	7598564186231262	CMakeFiles/Exp_Cal.dir/mainwindow.cpp.obj	f5ff1dc01e2a633a
+580	3008	7598564186196037	CMakeFiles/Exp_Cal.dir/main.cpp.obj	f0092da0f793dff6
+3008	3261	7598564210465133	Exp_Cal.exe	4ac3c7b9c6bc414a
